@@ -8,8 +8,8 @@ from preprocessing_linux_bfp.reformating import reformat_file, reformat_hunk
 import numpy as np
 import math
 import os
-from arguments import read_args
-from padding import padding_commit
+from .arguments import read_args
+from .padding import padding_commit
 import pickle
 
 

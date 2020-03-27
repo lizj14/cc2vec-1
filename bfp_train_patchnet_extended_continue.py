@@ -1,7 +1,7 @@
 import pickle
 from parameters import read_args_cnn
 import numpy as np
-from utilities import mini_batches_extended
+from ultis import mini_batches_extended
 import torch
 import os
 import datetime

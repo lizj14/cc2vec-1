@@ -2,7 +2,7 @@ import pickle
 from parameters import read_args_cnn
 import numpy as np
 import torch
-from utilities import mini_batches_extended
+from ultis import mini_batches_extended
 import os
 from hierarchical_cnn_classification import PatchNetExtented
 from sklearn.metrics import precision_score

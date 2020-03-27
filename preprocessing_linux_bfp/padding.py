@@ -5,7 +5,7 @@
 
 
 import numpy as np
-from extracting import extract_msg, extract_code, dictionary
+from .extracting import extract_msg, extract_code, dictionary
 
 
 def padding_length(line, max_length):

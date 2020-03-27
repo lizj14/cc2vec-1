@@ -1,7 +1,7 @@
 import pickle
 from parameters import read_args
 import numpy as np
-from utilities import mini_batches
+from ultis import mini_batches
 import torch
 import os
 from hierarchical_attention import HierachicalRNN

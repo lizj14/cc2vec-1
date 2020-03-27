@@ -1,4 +1,4 @@
-from padding import dictionary_commit, padding_message, padding_commit_code, mapping_dict_msg, mapping_dict_code
+from .padding import dictionary_commit, padding_message, padding_commit_code, mapping_dict_msg, mapping_dict_code
 import numpy as np
 from sklearn.model_selection import StratifiedShuffleSplit, KFold
 import pickle

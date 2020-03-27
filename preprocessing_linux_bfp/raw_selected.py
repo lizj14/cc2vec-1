@@ -1,5 +1,5 @@
-from ultis import extract_commit
-from ultis import reformat_commit_code
+from .ultis import extract_commit
+from .ultis import reformat_commit_code
 import pandas as pd
 import pickle
 

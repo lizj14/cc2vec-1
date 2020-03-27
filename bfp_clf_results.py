@@ -1,9 +1,9 @@
 from parameters import read_args
 import pickle
 import numpy as np
-from utilities import load_file
+from ultis import load_file
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
-from utilities import convert_to_binary
+from ultis import convert_to_binary
 
 
 def evaluation_metrics(path, labels):
