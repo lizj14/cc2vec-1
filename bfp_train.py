@@ -40,7 +40,10 @@ def running_train(batches, model, params):
             state_hunk = model.init_hidden_hunk()
 
             pad_added_code, pad_removed_code, labels = batch
-            labels = torch.cuda.FloatTensor(labels)
+            if torch.cuda.is_available():
+                labels = torch.cuda.FloatTensor(labels)
+            else:
+                labels = torch.FloatTensor(labels)
             optimizer.zero_grad()
             predict = model.forward(pad_added_code, pad_removed_code, state_hunk, state_sent, state_word)
             loss = nn.BCELoss()
@@ -75,6 +78,8 @@ def train_model(data, params):
     hierarchical_attention = HierachicalRNN(args=params)
     if torch.cuda.is_available():
         model = hierarchical_attention.cuda()
+    else:
+        model = hierarchical_attention.cpu()
     running_train(batches=batches, model=model, params=params)
 
 
@@ -88,8 +93,7 @@ if __name__ == '__main__':
     # labels: label of our data, stable or non-stable patches
     # dict_msg: dictionary of commit message
     # dict_code: dictionary of commit code
-
-    with open('./data/linux_bfp.pickle', 'rb') as input:
+    with open('./data/linux_bfp_temp.pickle', 'rb') as input:
         data = pickle.load(input)
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
     ##########################################################################################################
@@ -108,5 +112,6 @@ if __name__ == '__main__':
     input_option.embed_size = 64
     input_option.hidden_size = 32
 
+    # input_option.num_epochs = 2
     data = (pad_added_code, pad_removed_code, pad_msg_labels, dict_msg, dict_code)
     train_model(data=data, params=input_option)

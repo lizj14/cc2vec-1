@@ -1,0 +1,3000 @@
+remove separator in CHANGES . txt
+Add deskshare object to meetings
+Added intro image .
+Updated changelog
+update readme
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Use the release version rather than the snapshot version when tagging
+set back release properties
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+removed empty line .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+don ' t use atexit , causes problems .
+Fix DeletionRetentionStrategy # configurationClass ( )
+Add deskshare object to meetings
+Added intro image .
+Remove unused constant from TWLayoutManager
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+Add help .
+add STORM - 1499 to CHANGELOG . md
+add design
+Pull request comments
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Consolidate javax . servlet jars
+Fix WTF when creating a lazily initialized connection
+updated version
+renamed test .
+ignore Update ' modules / apps / foundation / portal - configuration / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Added intro image .
+Added intro image .
+update README . md for version 0 . 1 . 3
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / collaboration / comment / .
+Added intro image .
+ignore filtered scripts created by build
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+add notes about JDI
+Add cdma_rmnet4 to list of monitored interfaces
+add STORM - 1499 to CHANGELOG . md
+ignore Update ' modules / apps / foundation / portal - instances / .
+Added intro image .
+Added intro image .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+see 08 / 22 log
+Removed an unnecessary line introduced into CHANGES . txt by change r1087844
+Updated changelog
+Remove unused constant from TWLayoutManager
+Added a screenshot of the app in action ( without images )
+Fix WTF when creating a lazily initialized connection
+Fix memory leak with TouchTargets not being recycled .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+update Readme
+ignore Update ' modules / apps / web - experience / trash / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / comment / .
+Adding Eclipse - related files to gitignore .
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Hide enum constructor further .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / announcements / .
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Consolidate javax . servlet jars
+update readme
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Raise visibility of Netty Channel Builder Ctor
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+Add help .
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / sync / .
+updated version
+Gradle build tools version 1 . 0 . 1
+Added translation using Weblate ( Uzbek )
+Add deskshare object to meetings
+Smack 4 . 1 . 9 - SNAPSHOT
+Added translation using Weblate ( Uzbek )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Made validation util also have private constructor to prevent initialization
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+Updating Alloy rev . 55365
+Added intro image .
+Updated changelog
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / portal - remote / .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+moved to version 1 . 4 of buildnumber maven plugin
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+prepare release checkstyle - 6 . 14 . 1
+ignore Update ' modules / apps / collaboration / wiki / .
+Make 1 . 0 . 0 header the same level as others ( # 2885 )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added security dependency on webapp . mod
+Add keys . add ( key )
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+fix add break for 1 . 4
+ignore Update ' modules / apps / collaboration / comment / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Bump up version
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added a screenshot of the app in action ( without images )
+Fix WTF when creating a lazily initialized connection
+set back release properties
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fixed a bug where the notification scroller could crash .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Started a Q and A section .
+add flipviewpager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+fixed bugs in not - null instrumentation
+Added intro image .
+set back release properties
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Add PSD for GreenDroid
+Add PSD for GreenDroid
+Add image for screen density chart
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+update README . md for version 0 . 1 . 3
+Added intro image .
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+ignore Update ' modules / apps / web - experience / journal / .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Added reference
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Reverted commit 76c8630367c027873cd1e2d28b6a27eb9f082b5d
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / asset / .
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - cache / .
+added attribution for snakeyaml ( AL required )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Revert iiop schema rename
+Fix WTF when creating a lazily initialized connection
+Regenerate portal - client .
+Fix WTF when creating a lazily initialized connection
+prepare for next development iteration
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Returned missing call to trackRelatedPostsIfShowing ( )
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fixed a bug where the notification scroller could crash .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added intro image .
+Added intro image .
+Updated changelog
+Added intro image .
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+make shared variable volatile
+renamed test .
+Updated changelog
+Added translation using Weblate ( Uzbek )
+updated TODO
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Adding Eclipse - related files to gitignore .
+updated version
+IDEA - 82242 Scroll the tabs with mouse wheel
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added translation using Weblate ( Uzbek )
+Upgrade audioplayer
+Add help .
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fixed a bug where the notification scroller could crash .
+ignore Update ' modules / apps / sync / .
+Updated build configuration to version 3 . 2 . 0 - SNAPSHOT
+Fix WTF when creating a lazily initialized connection
+prepare release checkstyle - 6 . 14 . 1
+Fix WTF when creating a lazily initialized connection
+Removed the background attribute completly .
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+add README
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+update Readme
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+Adding top level .
+ignore Update ' modules / apps / sync / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Add help .
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added translation using Weblate ( Uzbek )
+Added security dependency on webapp . mod
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / web - experience / site / .
+Add cdma_rmnet4 to list of monitored interfaces
+ignore Update ' modules / apps / foundation / frontend - editor / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix the bug of type error when calling set_to_default_values ( ) in python interface
+Add help .
+ignore Update ' modules / apps / collaboration / comment / .
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Add help .
+Add cdma_rmnet4 to list of monitored interfaces
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update libwebp
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Add gif
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / comment / .
+ignore Update ' modules / apps / collaboration / wiki / .
+Updated changelog
+Add deskshare object to meetings
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+Fix DeletionRetentionStrategy # configurationClass ( )
+ignore Update ' modules / apps / web - experience / site / .
+use empty array instance rather than brand new array
+Fix WTF when creating a lazily initialized connection
+IDEA - 82242 Scroll the tabs with mouse wheel
+Started a Q and A section .
+ignore Update ' modules / apps / collaboration / wiki / .
+Add help .
+ignore Update ' modules / apps / foundation / portal - search / .
+ignore Update ' modules / apps / foundation / users - admin / .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / site / .
+Fix WTF when creating a lazily initialized connection
+Avoid splitting overloaded methods
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Avoid splitting overloaded methods
+use empty array instance rather than brand new array
+use the passed param for ' rand_shuffle ' when writing flatfile ( I had left it harwired to True .
+add flipviewpager
+updated version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Gradle build tools version 1 . 0 . 1
+Added translation using Weblate ( Uzbek )
+revert jline dependency to 2 . 11 until fix is available for
+Push version to 14 . 0 . 3 , 11266 .
+ignore Update ' modules / apps / collaboration / wiki / .
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added translation using Weblate ( Uzbek )
+update Readme
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Avoid splitting overloaded methods
+updated version
+ignore Update ' modules / apps / collaboration / document - library / .
+ignore Update ' modules / apps / collaboration / wiki / .
+enable new building model
+Fix WTF when creating a lazily initialized connection
+ignore filtered scripts created by build
+remove irrelevant suppression
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+temporarily disable test
+Added intro image .
+fix prop type warning
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Deploy the upgrade info as an artifact .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+extending async testunit timeout
+Add TypeCheck . DETERMINISTIC_TEST check to " suspiciousCode " group .
+Added intro image .
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+removed empty line .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add deskshare object to meetings
+Added intro image .
+remove openjdk7 , add oraclejdk8 for testing
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Add gif
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fixed unit test after rebase
+Fix WTF when creating a lazily initialized connection
+Updates hcatalog sep version from 0 . 5 . 0 - dev to 0 . 4 . 0 - T1
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Use the release version rather than the snapshot version when tagging
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / foundation / portal - cache / .
+Templatize the definition of Array in externs
+Up build tools
+Add gif
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+renamed test .
+Added intro image .
+Add cdma_rmnet4 to list of monitored interfaces
+Add keys . add ( key )
+Added intro image .
+Raise visibility of Netty Channel Builder Ctor
+Remove version . properties from ' sources ' JAR
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add cdma_rmnet4 to list of monitored interfaces
+don ' t use atexit , causes problems .
+Started a Q and A section .
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Updated changelog
+ignore Update ' modules / apps / collaboration / wiki / .
+add design
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+Updated changelog
+prepare release checkstyle - 6 . 14 . 1
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+update README . md for version 0 . 1 . 3
+don ' t use atexit , causes problems .
+don ' t use atexit , causes problems .
+Added intro image .
+Raise visibility of Netty Channel Builder Ctor
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore filtered scripts created by build
+update multipleEntity
+Added intro image .
+Fix stupid copy / paste typo .
+Gradle build tools version 1 . 0 . 1
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - cache / .
+Add help .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+ignore Update ' modules / apps / foundation / map / .
+Added intro image .
+temporarily disable test
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+LPS - 27739 Site admins without Control Panel access cannot manage page or site pages
+ignore Update ' modules / apps / web - experience / iframe / .
+fixed css for remember me button checkbox under login form for webkit browsers
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / portal / .
+ignore Update ' modules / apps / sync / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+prepare release checkstyle - 6 . 14 . 1
+Added intro image .
+Remove unused constant from TWLayoutManager
+ignore Update ' modules / apps / web - experience / site / .
+Added intro image .
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / expando / .
+add readme so directory stays live
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Up build tools
+add STORM - 1499 to CHANGELOG . md
+Fix a typo on TvContract .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Regenerate portal - client .
+Started a Q and A section .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / comment / .
+fix prop type warning
+Add cdma_rmnet4 to list of monitored interfaces
+Added a screenshot of the app in action ( without images )
+Added a screenshot of the app in action ( without images )
+PRIx32 macro needs __STDC_FORMAT_MACRO defined on systems instead of __STDC_LIMIT_MACROS
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add a potentially useful comment
+corrected type
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added intro image .
+Added intro image .
+update readme
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+update Readme
+ignore Update ' modules / apps / web - experience / site / .
+renamed test .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+Fix WTF when creating a lazily initialized connection
+add design
+Fix WTF when creating a lazily initialized connection
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / users - admin / .
+updated version
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+Add cdma_rmnet4 to list of monitored interfaces
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Remove unused constant from TWLayoutManager
+Fix DeletionRetentionStrategy # configurationClass ( )
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Added a screenshot of the app in action ( without images )
+Fix stupid copy / paste typo .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Add help .
+LPS - 67640 Add Ant descriptor
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Remove unused constant from TWLayoutManager
+Consolidate javax . servlet jars
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+don ' t use atexit , causes problems .
+Updated changelog
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / foundation / portal / .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+revert change to test / cassandra .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Add a potentially useful comment
+Add help .
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / screens / .
+ignore Update ' modules / apps / web - experience / site / .
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Remove unused constant from TWLayoutManager
+ignore filtered scripts created by build
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Tagging TODO in gitignore .
+adding mkmf . log to gitignore
+ignore Update ' modules / apps / web - experience / export - import / .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Move file to correct dir
+deleted android_bluetooth_ScoSocket . cpp from makefile
+dispose component managers on EDT
+Fixed a bug where the notification scroller could crash .
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Added intro image .
+set back release properties
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add @ model to list of allowed annotation .
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+dispose component managers on EDT
+Fix WTF when creating a lazily initialized connection
+update Readme
+Fix WTF when creating a lazily initialized connection
+LPS - 52032 released 1 . 0 . 2 , so prep for 1 . 0 . 3 snapshot
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / web - experience / product - navigation / .
+ignore Update ' modules / apps / sync / .
+fixed bugs in not - null instrumentation
+use python2 . 7 ( # 570 )
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Add help .
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Fixed warning at startup about the missing Gremlin engine
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added intro image .
+Added intro image .
+Fix typo .
+Fix WTF when creating a lazily initialized connection
+ignore filtered scripts created by build
+Added a screenshot of the app in action ( without images )
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add building buck completed line
+Updated changelog
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+LPS - 15924 - Create a new icon for the " Sites Admin " portlet
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added onSnapshotCreated method
+ignore Update ' modules / apps / collaboration / wiki / .
+Remove version . properties from ' sources ' JAR
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / sync / .
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+Regenerate portal - client .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / comment / .
+updating astyanax version to 2 . 0 from 2 . 0 - beta
+don ' t use atexit , causes problems .
+updated version
+Added intro image .
+add design
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+moved to version 1 . 4 of buildnumber maven plugin
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Raise visibility of Netty Channel Builder Ctor
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Add help .
+ignore Update ' modules / apps / foundation / portal / .
+Add help .
+Added a screenshot of the app in action ( without images )
+IDEA - 82242 Scroll the tabs with mouse wheel
+Added intro image .
+Added intro image .
+adding mkmf . log to gitignore
+Added intro image .
+Add building buck completed line
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+set correct version
+Added missing call to super . close ( ) .
+Added intro image .
+Added intro image .
+make shared variable volatile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+use empty array instance rather than brand new array
+Started a Q and A section .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Removed an unnecessary line introduced into CHANGES . txt by change r1087844
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+add STORM - 1007 to CHANGELOG . md
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore filtered scripts created by build
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add cdma_rmnet4 to list of monitored interfaces
+removed empty line .
+Move file to correct dir
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added intro image .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / site / .
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Move Bike P + R builder to correct location .
+update readme
+ignore Update ' modules / apps / collaboration / comment / .
+ignore microsoft - translator 1 . 0 . 0 prep next
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add help .
+Add cdma_rmnet4 to list of monitored interfaces
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+updated version
+update README . md for version 0 . 1 . 3
+Added intro image .
+Remove unused constant from TWLayoutManager
+Added a screenshot of the app in action ( without images )
+Add cdma_rmnet4 to list of monitored interfaces
+ignore Update ' modules / apps / collaboration / wiki / .
+extending async testunit timeout
+don ' t use atexit , causes problems .
+Added intro image .
+Add deskshare object to meetings
+ignore Update ' modules / apps / collaboration / comment / .
+Remove version . properties from ' sources ' JAR
+Disallow usage of maven 3 . 1 . x ( and higher ) because of non compability with plugins
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+make shared variable volatile
+Add help .
+bumping up version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Add minSdkVersion to dslv lib to avoid read phone state permission .
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update README . md for version 0 . 1 . 3
+don ' t use atexit , causes problems .
+revert change to test / cassandra .
+revert change to test / cassandra .
+Added intro image .
+Reduce the number of tests before fork in CI
+ignore Update ' modules / apps / foundation / frontend - editor / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Updated changelog
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - configuration / .
+Remove unused # includes .
+Fix stupid copy / paste typo .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore filtered scripts created by build
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Adding placeholders for the fullscreen button
+updated R instructions
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+updated version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / marketplace / .
+Fix DeletionRetentionStrategy # configurationClass ( )
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / foundation / frontend - theme / .
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove unused # includes .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+adding mkmf . log to gitignore
+Updated changelog
+Fixed a bug where the notification scroller could crash .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Reduce the number of tests before fork in CI
+Build fix .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+remove sumatra pdf executable
+Added intro image .
+Reduce the number of tests before fork in CI
+Added intro image .
+Added intro image .
+ignore filtered scripts created by build
+LPS - 41509 Don ' t delete the deploy dir
+add STORM - 1713 to CHANGELOG . md
+ignore Update ' modules / apps / collaboration / comment / .
+Returned missing call to trackRelatedPostsIfShowing ( )
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / comment / .
+fixed css for remember me button checkbox under login form for webkit browsers
+Fixing pom . xml for Maven 3 . 1 .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / portal - cache / .
+Fix memory leak with TouchTargets not being recycled .
+remove redundant
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+revert change to test / cassandra .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+updated version
+LPS - 41509 Don ' t delete the deploy dir
+temporarily disable unit test
+Add image for screen density chart
+revert change to test / cassandra .
+adding mkmf . log to gitignore
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Raise visibility of Netty Channel Builder Ctor
+Fix WTF when creating a lazily initialized connection
+ignore filtered scripts created by build
+ignore filtered scripts created by build
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Added intro image .
+temporarily disable test
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+Fix WTF when creating a lazily initialized connection
+revert change to test / cassandra .
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Add cdma_rmnet4 to list of monitored interfaces
+Updated changelog
+Added intro image .
+Added a screenshot of the app in action ( without images )
+see 08 / 22 log
+ignore Update ' modules / apps / web - experience / journal / .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Remove unnecessary last blank line
+prepare release acra - 4 . 5 . 0RC3
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+set back release properties
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+renamed test .
+LPS - 15924 - Create a new icon for the " Sites Admin " portlet
+Add help .
+Added security dependency on webapp . mod
+Updated changelog
+Remove redundant call to createSdpOffer ( )
+Added intro image .
+Consolidate javax . servlet jars
+ignore Update ' modules / apps / foundation / users - admin / .
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / sync / .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add TypeCheck . DETERMINISTIC_TEST check to " suspiciousCode " group .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated AUTHORS . md to include Vingles
+Add help .
+ignore Update ' modules / apps / collaboration / wiki / .
+update Readme
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Added intro image .
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+Fix DeletionRetentionStrategy # configurationClass ( )
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Regenerate portal - client .
+Fix WTF when creating a lazily initialized connection
+include windows batch files in zipDist
+Added intro image .
+add notes about JDI
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+add STORM - 1499 to CHANGELOG . md
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / frontend - editor / .
+ignore Update ' modules / apps / collaboration / comment / .
+Added intro image .
+Add @ model to list of allowed annotation .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+update Readme
+Fix WTF when creating a lazily initialized connection
+Add help .
+Added intro image .
+add missing resource
+avoid compiler warning
+deleted android_bluetooth_ScoSocket . cpp from makefile
+added slack notification
+ignore Update ' modules / apps / collaboration / microblogs / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / comment / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated libs .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Add help .
+Rename R vignette R demo script .
+Add cdma_rmnet4 to list of monitored interfaces
+Updated changelog
+add STORM - 1499 to CHANGELOG . md
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / foundation / expando / .
+IDEA - 82242 Scroll the tabs with mouse wheel
+Fix permissions
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Make Printer constructor public
+Consolidate javax . servlet jars
+remove irrelevant suppression
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / foundation / portal - cache / .
+Added a screenshot of the app in action ( without images )
+Added intro image .
+Added intro image .
+update readme
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+update changelog for STORM - 796
+Add cdma_rmnet4 to list of monitored interfaces
+Fixed a bug where the notification scroller could crash .
+Added translation using Weblate ( Uzbek )
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Remove version . properties from ' sources ' JAR
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove unneeded ' ; '
+ignore Update ' modules / apps / foundation / portal - instances / .
+Fix WTF when creating a lazily initialized connection
+Fix DeletionRetentionStrategy # configurationClass ( )
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added a screenshot of the app in action ( without images )
+updated version
+revert change to test / cassandra .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+Fix WTF when creating a lazily initialized connection
+Move Bike P + R builder to correct location .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+add STORM - 1499 to CHANGELOG . md
+set back release properties
+Added intro image .
+renamed test .
+Fix quality flaw
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+Added intro image .
+add design
+ignore Update ' modules / apps / foundation / expando / .
+removed empty line .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / site / .
+remove redundant
+updated version
+update travis . yml
+Added intro image .
+set back release properties
+Fix permissions
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+IDEA - 82242 Scroll the tabs with mouse wheel
+IDEA - 82242 Scroll the tabs with mouse wheel
+use empty array instance rather than brand new array
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / sync / .
+Reduce the number of tests before fork in CI
+Fixed issue # 3304
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+remove test files after completion
+prepare for next development iteration
+Fix path to jar in windows script for the case it is run not from jsonschema2pojo home
+use empty array instance rather than brand new array
+set back release properties
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add design
+updating readme
+Add deskshare object to meetings
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Add PSD for GreenDroid
+Remove redundant call to createSdpOffer ( )
+Added intro image .
+Accessibility events fired from AdapterView underpopulated .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Reduce the number of tests before fork in CI
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / forms - and - workflow / polls / .
+Removed an unnecessary line introduced into CHANGES . txt by change r1087844
+ignore Update ' modules / apps / forms - and - workflow / calendar / .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Set constructor properly in createReactNativeComponentClass
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+revert change to test / cassandra .
+Fix DeletionRetentionStrategy # configurationClass ( )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+updated version
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+IDEA - 82242 Scroll the tabs with mouse wheel
+renamed test .
+updated version
+ignore Update ' modules / apps / collaboration / wiki / .
+see 08 / 22 log
+Added intro image .
+Added intro image .
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Consolidate javax . servlet jars
+don ' t use atexit , causes problems .
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add type icon with retina support
+ignore Update ' modules / apps / web - experience / site / .
+Fix WTF when creating a lazily initialized connection
+update README . md for version 0 . 1 . 3
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+ignore Update ' modules / apps / collaboration / comment / .
+remove test files after completion
+renamed test .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+Added a screenshot of the app in action ( without images )
+updated version
+ignore Update ' modules / apps / foundation / portal / .
+ignore Update ' modules / apps / foundation / portal - security / .
+ignore Update ' modules / apps / foundation / users - admin / .
+bump common ref
+Fix WTF when creating a lazily initialized connection
+use empty array instance rather than brand new array
+Use the latest lib snapshot
+updated version
+ignore Update ' modules / apps / collaboration / wiki / .
+Add fetch task to gradle script
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+add README
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / foundation / portal - configuration / .
+ignore Update ' modules / apps / collaboration / bookmarks / .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / comment / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+Fix WTF when creating a lazily initialized connection
+update README . md
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+set back release properties
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+Add a potentially useful comment
+Fix changelog
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add help .
+updated version code
+don ' t use atexit , causes problems .
+Fix stupid copy / paste typo .
+Regenerate portal - client .
+Fixed a bug where the notification scroller could crash .
+Added intro image .
+Added intro image .
+moved to version 1 . 4 of buildnumber maven plugin
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Use the latest lib snapshot
+update news with data import improvements
+Remove unused import .
+added two more that
+Fix WTF when creating a lazily initialized connection
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add help .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+Add cdma_rmnet4 to list of monitored interfaces
+don ' t use atexit , causes problems .
+Regenerate portal - client .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Started a Q and A section .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / site / .
+Raise visibility of Netty Channel Builder Ctor
+renamed test .
+ignore Update ' modules / apps / sync / .
+don ' t use atexit , causes problems .
+Add help .
+Add image for screen density chart
+ignore Update ' modules / apps / foundation / expando / .
+Updated changelog
+add notes about JDI
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added a screenshot of the app in action ( without images )
+updated version
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+IDEA - 82242 Scroll the tabs with mouse wheel
+adding mkmf . log to gitignore
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added intro image .
+fixed some EOF bugs
+Remove unused constant from TWLayoutManager
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+remove sumatra pdf executable
+Added intro image .
+Added intro image .
+Removing useless class
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / foundation / users - admin / .
+renamed test .
+ignore Update ' modules / apps / foundation / users - admin / .
+Up build tools
+Use the release version rather than the snapshot version when tagging
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore filtered scripts created by build
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Add flags needed to switch Jack to 1 . 8 for CTS targets
+update readme
+ignore Update ' modules / apps / foundation / portal / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Consolidate javax . servlet jars
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Disallow usage of maven 3 . 1 . x ( and higher ) because of non compability with plugins
+Regenerate portal - client .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+LPS - 65749 prep next , use latest
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+Added translation using Weblate ( Uzbek )
+Remove unused import .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+revert change to test / cassandra .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+setNewData ( ) add resetLastPosition
+Added intro image .
+LRQA - 28383 Add Modules Unit as a component
+deleted android_bluetooth_ScoSocket . cpp from makefile
+At the end of header sync reset the counts .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Add fetch task to gradle script
+Added intro image .
+Updated changelog
+Added intro image .
+Remove version . properties from ' sources ' JAR
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+prepare release checkstyle - 6 . 14 . 1
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+Use the latest lib snapshot
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / bookmarks / .
+Updated build tools version
+add info about bug fixing
+Added intro image .
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+fix git commit failing
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+set back release properties
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add Asturian
+Added intro image .
+Move Bike P + R builder to correct location .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Add * .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Move Bike P + R builder to correct location .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Updated changelog
+Added intro image .
+ignore filtered scripts created by build
+Added intro image .
+add README
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Make Wrench full 3D
+Added intro image .
+update readme
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Updated changelog
+Added intro image .
+Fix ASR script
+ignore Update ' modules / apps / collaboration / wiki / .
+remove old cmd option from usage sysnopsis
+Fixed a bug where the notification scroller could crash .
+Removed debug println in Console
+Remove unused constant from TWLayoutManager
+update readme
+deleted android_bluetooth_ScoSocket . cpp from makefile
+remove blank line
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Rename R vignette R demo script .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Fix WTF when creating a lazily initialized connection
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Added intro image .
+Add cdma_rmnet4 to list of monitored interfaces
+updated version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Added intro image .
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore filtered scripts created by build
+LPS - 52032 released 1 . 0 . 2 , so prep for 1 . 0 . 3 snapshot
+ignore Update ' modules / apps / collaboration / wiki / .
+add type icon with retina support
+Added intro image .
+Reduce the number of tests before fork in CI
+set back release properties
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added message .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Prepare version 1 . 0 . 0
+updating readme
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+added attribution for snakeyaml ( AL required )
+Fixed a bug where the notification scroller could crash .
+set toolbar conversation title display property
+Added intro image .
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+LPS - 52032 released 1 . 0 . 2 , so prep for 1 . 0 . 3 snapshot
+Added translation using Weblate ( Uzbek )
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Fix WTF when creating a lazily initialized connection
+see 08 / 22 log
+ignore Update ' modules / apps / sync / .
+Added intro image .
+add design
+Disallow usage of maven 3 . 1 . x ( and higher ) because of non compability with plugins
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+Add gif
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+don ' t use atexit , causes problems .
+Add cdma_rmnet4 to list of monitored interfaces
+Change gitignore file .
+updated version
+Add Bruce for C # report
+add design
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+add README
+Added a screenshot of the app in action ( without images )
+updated version
+IDEA - 82242 Scroll the tabs with mouse wheel
+Added intro image .
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+bumping up version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update Readme
+Move Bike P + R builder to correct location .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Add building buck completed line
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Moved WriteResult from driver - core to driver
+updated version
+update readme
+Added intro image .
+Add help .
+set back release properties
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+use empty array instance rather than brand new array
+don ' t use atexit , causes problems .
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / web - experience / layout / .
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Consolidate javax . servlet jars
+Consolidate javax . servlet jars
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+deleted android_bluetooth_ScoSocket . cpp from makefile
+added slack notification
+add design
+set back release properties
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+use the passed param for ' rand_shuffle ' when writing flatfile ( I had left it harwired to True .
+renamed test .
+ignore Update ' modules / apps / foundation / portal - cache / .
+Hide enum constructor further .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - lock / .
+Add cdma_rmnet4 to list of monitored interfaces
+Added a screenshot of the app in action ( without images )
+Fix memory leak with TouchTargets not being recycled .
+Fix stupid copy / paste typo .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+corrected type
+ignore Update ' modules / apps / web - experience / site / .
+Fix DeletionRetentionStrategy # configurationClass ( )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+tolerate symlink - caused intersections in subtrees )
+added slack notification
+revert change to test / cassandra .
+Fix WTF when creating a lazily initialized connection
+Edited audio - test . mp3 to 10 seconds
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Fix WTF when creating a lazily initialized connection
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added intro image .
+Remove unused constant from TWLayoutManager
+Added a screenshot of the app in action ( without images )
+Remove version . properties from ' sources ' JAR
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update CHANGES
+Added intro image .
+Added intro image .
+Added intro image .
+Consolidate javax . servlet jars
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+ignore Update ' modules / apps / foundation / portal - cache / .
+Add keys . add ( key )
+ignore Update ' modules / apps / web - experience / site / .
+set back release properties
+Added intro image .
+update Readme
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+bump version
+add STORM - 1499 to CHANGELOG . md
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+fixed css for remember me button checkbox under login form for webkit browsers
+renamed test .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Add deskshare object to meetings
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+Fix DeletionRetentionStrategy # configurationClass ( )
+Fix possible forever cache - miss after ScaleTextSize updated
+Disallow usage of maven 3 . 1 . x ( and higher ) because of non compability with plugins
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Updates hcatalog sep version from 0 . 5 . 0 - dev to 0 . 4 . 0 - T1
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Started a Q and A section .
+Raise visibility of Netty Channel Builder Ctor
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / frontend - editor / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+set back release properties
+Added translation using Weblate ( Uzbek )
+update Readme
+set back release properties
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+remove trivial tearDown
+renamed test .
+Added a screenshot of the app in action ( without images )
+updated version
+Rename R vignette R demo script .
+added slack notification
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Updated changelog
+Move Bike P + R builder to correct location .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+LPS - 67640 Add Ant descriptor
+Add cdma_rmnet4 to list of monitored interfaces
+Added intro image .
+Added intro image .
+Added intro image .
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+renamed test .
+see 08 / 22 log
+added Esperanto translation for Khmer .
+ignore Update ' modules / apps / collaboration / wiki / .
+add design
+update readme
+Added intro image .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+remove unused import
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Remove LOCAL_JNI_SHARED_LIBRARIES_ZIP_OPTIONS
+update changelog
+LPS - 57173 Wake all thread waiting on the manager
+Use the release version rather than the snapshot version when tagging
+ignore Update ' modules / apps / foundation / users - admin / .
+Remove version . properties from ' sources ' JAR
+Added intro image .
+don ' t use atexit , causes problems .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+renamed test .
+add README
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add notes about JDI
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Templatize the definition of Array in externs
+Bugfix take two .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix spelling mistake .
+Added intro image .
+Fix spelling in - - no - search - upward , thanks to @ rmb938 for spotting this .
+Added intro image .
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Rename method
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Adding Eclipse - related files to gitignore .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+make TypedColumn public
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add deskshare object to meetings
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Built new snapshot lib
+don ' t use atexit , causes problems .
+Updated changelog
+add design
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+don ' t use atexit , causes problems .
+IDEA - 82242 Scroll the tabs with mouse wheel
+use empty array instance rather than brand new array
+Bump up version
+Reduce the number of tests before fork in CI
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+upgrade okhttp 3 . 1 . 2 - > 3 . 2 . 0
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add notes about JDI
+updated version
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+set back release properties
+Added translation using Weblate ( Uzbek )
+use the passed param for ' rand_shuffle ' when writing flatfile ( I had left it harwired to True .
+Add help .
+use empty array instance rather than brand new array
+Added translation using Weblate ( Belarusian ( latin ) )
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Updating Alloy rev . 55365
+Fix stupid copy / paste typo .
+Don ' t require old maven
+Added intro image .
+Add Bruce for C # report
+ignore Update ' modules / apps / collaboration / comment / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove version . properties from ' sources ' JAR
+renamed test .
+Fix changelog
+Added intro image .
+Remove LOCAL_JNI_SHARED_LIBRARIES_ZIP_OPTIONS
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add help .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+highlighted cells not refreshing fix
+Fix WTF when creating a lazily initialized connection
+add test sentences for Esperanto and Catalan
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Fixed a bug where the notification scroller could crash .
+Fixed a bug where the notification scroller could crash .
+use empty array instance rather than brand new array
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+set back release properties
+add type icon with retina support
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+Raise visibility of Netty Channel Builder Ctor
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add help .
+Updated changelog
+updated version
+ignore Update ' modules / apps / collaboration / invitation / .
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+LEP - 6067 - Consolidating the Sharing links ( forgot the actual sharing image . . . )
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Add cdma_rmnet4 to list of monitored interfaces
+Fix chmod ( # 41 )
+Add SQL Console module to jOOQ - Copy authors . txt
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added a screenshot of the app in action ( without images )
+added attribution for snakeyaml ( AL required )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove LOCAL_JNI_SHARED_LIBRARIES_ZIP_OPTIONS
+Added translation using Weblate ( Uzbek )
+update readme
+set back release properties
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+set back release properties
+update Readme
+Added intro image .
+Made validation util also have private constructor to prevent initialization
+Removed the background attribute completly .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+update readme
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+Added new gif for the fill after .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Moving class to dp package
+tolerate symlink - caused intersections in subtrees )
+remove profile code icon to maintain consistency in code wizard menu
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Started a Q and A section .
+ignore filtered scripts created by build
+Added intro image .
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+added slack notification
+Fix tests
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Remove unused constant from TWLayoutManager
+remove sumatra pdf executable
+ignore Update ' modules / apps / collaboration / wiki / .
+don ' t use atexit , causes problems .
+Added intro image .
+ignore Update ' modules / apps / foundation / expando / .
+Updated changelog
+Consolidate javax . servlet jars
+Add logging of Bintray user for CI
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Started a Q and A section .
+Remove git submodule ( too inconvenient )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+remove blank line
+renamed test .
+Fix some ruby dependencies for travis , see
+do not request focus for About command
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / site / .
+Added a screenshot of the app in action ( without images )
+ignore microsoft - translator 1 . 0 . 0 prep next
+Remove version . properties from ' sources ' JAR
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / site / .
+Remove version . properties from ' sources ' JAR
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Raise visibility of Netty Channel Builder Ctor
+ignore Update ' modules / apps / foundation / expando / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+Started a Q and A section .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+update readme
+added two more that
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add cdma_rmnet4 to list of monitored interfaces
+Fix DeletionRetentionStrategy # configurationClass ( )
+Move Bike P + R builder to correct location .
+ignore filtered scripts created by build
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove version . properties from ' sources ' JAR
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Raise visibility of Netty Channel Builder Ctor
+add test sentences for Esperanto and Catalan
+Fix WTF when creating a lazily initialized connection
+Remove unused constant from TWLayoutManager
+Added translation using Weblate ( Uzbek )
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+Added intro image .
+Add flags needed to switch Jack to 1 . 8 for CTS targets
+set back release properties
+Added intro image .
+Updated changelog
+Smack 4 . 1 . 9 - SNAPSHOT
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+Use the release version rather than the snapshot version when tagging
+Added intro image .
+Added intro image .
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+updated version
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+see 08 / 22 log
+ignore Update ' modules / apps / sync / .
+set back release properties
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix possible forever cache - miss after ScaleTextSize updated
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+adding mkmf . log to gitignore
+add updated by field to project entry
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / product - navigation / .
+add STORM - 1499 to CHANGELOG . md
+Add deskshare object to meetings
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore filtered scripts created by build
+IDEA - 82242 Scroll the tabs with mouse wheel
+Fix WTF when creating a lazily initialized connection
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore microsoft - translator 1 . 0 . 0 prep next
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated CHANGES
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Add PSD for GreenDroid
+Move file to correct dir
+deleted android_bluetooth_ScoSocket . cpp from makefile
+At the end of header sync reset the counts .
+Updated changelog
+Removed an unnecessary line introduced into CHANGES . txt by change r1087844
+Added intro image .
+Add help .
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Updated changelog
+dispose component managers on EDT
+Added intro image .
+add design
+Added intro image .
+Remove unused constant from TWLayoutManager
+Added intro image .
+ignore Update ' modules / apps / sync / .
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Up build tools
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove unused constant from TWLayoutManager
+Fix WTF when creating a lazily initialized connection
+adding mkmf . log to gitignore
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / product - navigation / .
+updated version
+remove unused import
+updated version
+ignore Update ' modules / apps / foundation / users - admin / .
+set back release properties
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add image for screen density chart
+Reduce the number of tests before fork in CI
+Fix WTF when creating a lazily initialized connection
+Add gif
+Added intro image .
+ignore Update ' modules / apps / collaboration / comment / .
+Added intro image .
+Updated FAQ
+Added intro image .
+update Readme
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Started a Q and A section .
+Fix DeletionRetentionStrategy # configurationClass ( )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+Adding placeholders for the fullscreen button
+Remove unused constant from TWLayoutManager
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+Fix DeletionRetentionStrategy # configurationClass ( )
+ignore Update ' modules / apps / collaboration / wiki / .
+Updated changelog
+updated version
+temporarily disable test
+Fix WTF when creating a lazily initialized connection
+update Readme
+ignore Update ' modules / apps / web - experience / site / .
+Update configure script .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+update Readme
+Add flags needed to switch Jack to 1 . 8 for CTS targets
+set back release properties
+Revert eclipse project specific setting
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Add cdma_rmnet4 to list of monitored interfaces
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+set back release properties
+Added translation using Weblate ( Uzbek )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / announcements / .
+IDEA - 82242 Scroll the tabs with mouse wheel
+IDEA - 82242 Scroll the tabs with mouse wheel
+Added intro image .
+update Readme
+renamed test .
+Updated changelog
+added attribution for snakeyaml ( AL required )
+Add missing Override decorator
+don ' t use atexit , causes problems .
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / collaboration / wiki / .
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / foundation / frontend - editor / .
+ignore Update ' modules / apps / web - experience / site / .
+Add help .
+don ' t use atexit , causes problems .
+Remove version . properties from ' sources ' JAR
+Fixed a bug where the notification scroller could crash .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / foundation / portal / .
+ignore Update ' modules / apps / web - experience / site / .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / expando / .
+Avoid splitting overloaded methods
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+use the passed param for ' rand_shuffle ' when writing flatfile ( I had left it harwired to True .
+Fix WTF when creating a lazily initialized connection
+Accessibility events fired from AdapterView underpopulated .
+ignore Update ' modules / apps / foundation / users - admin / .
+updated version
+Removed the background attribute completly .
+fixed bugs in not - null instrumentation
+Prevent reflective instantiation by masochists .
+ignore Update ' modules / apps / collaboration / wiki / .
+Updated changelog
+Added intro image .
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / marketplace / .
+Removed debug println in Console
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+Added intro image .
+IDEA - 82242 Scroll the tabs with mouse wheel
+Publish 0 . 4 . 0 .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+updating readme
+Fix WTF when creating a lazily initialized connection
+ignore vim swap files for git
+Started a Q and A section .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Remove unnecessary last blank line
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Add help .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Added intro image .
+set back release properties
+Added intro image .
+renamed test .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+Added intro image .
+Fix DeletionRetentionStrategy # configurationClass ( )
+Revert eclipse project specific setting
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - cache / .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Move worldedit . properties to defaults folder so it extracts properly
+Remove unneeded ' ; '
+ignore Update ' modules / apps / foundation / map / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add image for screen density chart
+Raise visibility of Netty Channel Builder Ctor
+Fix WTF when creating a lazily initialized connection
+Add help .
+ignore Update ' modules / apps / collaboration / wiki / .
+renamed test .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+Fix WTF when creating a lazily initialized connection
+use empty array instance rather than brand new array
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+ignore Update ' modules / apps / foundation / portal - template / .
+revert change to test / cassandra .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix DeletionRetentionStrategy # configurationClass ( )
+renamed test .
+Added a screenshot of the app in action ( without images )
+fix bug
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+updated splash for win launchers .
+update Readme
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+Fix typo in JDK apt - get line in install . md
+Adding the CordovaException class
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Added intro image .
+ignore Update ' modules / apps / foundation / portal - search / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+Fix possible forever cache - miss after ScaleTextSize updated
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+remove extra - from maven arg
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added intro image .
+Added intro image .
+Remove unused constant from TWLayoutManager
+tolerate symlink - caused intersections in subtrees )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Regenerate portal - client .
+Raise visibility of Netty Channel Builder Ctor
+Added intro image .
+Added a screenshot of the app in action ( without images )
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Add cdma_rmnet4 to list of monitored interfaces
+don ' t use atexit , causes problems .
+don ' t use atexit , causes problems .
+Fix WTF when creating a lazily initialized connection
+Reduce the number of tests before fork in CI
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+LRQA - 28383 Add Modules Unit as a component
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Swap the chess king and queen glyphs in Droid Sans Fallback .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+prepare release checkstyle - 6 . 14 . 1
+Added intro image .
+removed empty line .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Smack 4 . 1 . 9 - SNAPSHOT
+ignore Update ' modules / apps / foundation / expando / .
+Add SQL Console module to jOOQ - Copy authors . txt
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+make shared variable volatile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated version
+use empty array instance rather than brand new array
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove version . properties from ' sources ' JAR
+ignore Update ' modules / apps / collaboration / wiki / .
+Up build tools
+Regenerate portal - client .
+update Readme
+Remove unused constant from TWLayoutManager
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+LPS - 55310 remove packageinfo
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Bump up version
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Fix WTF when creating a lazily initialized connection
+Add cdma_rmnet4 to list of monitored interfaces
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / bookmarks / .
+Added intro image .
+Added intro image .
+Updated changelog
+ignore Update ' modules / apps / collaboration / comment / .
+Consolidate javax . servlet jars
+ignore Update ' modules / apps / foundation / portal - cache / .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+update Readme
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+revert change to test / cassandra .
+Fix WTF when creating a lazily initialized connection
+Add cdma_rmnet4 to list of monitored interfaces
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Add keys . add ( key )
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / expando / .
+ignore filtered scripts created by build
+ignore Update ' modules / apps / collaboration / wiki / .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+updated image for installation wizard for pycharm EDU2 . 0
+Added intro image .
+ignore filtered scripts created by build
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+see 08 / 22 log
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Updated changelog
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Fix DeletionRetentionStrategy # configurationClass ( )
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+updated version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+remove separator in CHANGES . txt
+Fix WTF when creating a lazily initialized connection
+Raise visibility of Netty Channel Builder Ctor
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+Updated changelog
+add STORM - 1499 to CHANGELOG . md
+Updated changelog
+Raise visibility of Netty Channel Builder Ctor
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / foundation / users - admin / .
+IDEA - 82242 Scroll the tabs with mouse wheel
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+Did not update project . version correctly .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+extending async testunit timeout
+don ' t use atexit , causes problems .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added translation using Weblate ( Uzbek )
+Bump up version
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / site / .
+Push version to 13 - beta6 , 11249 .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / portal - cache / .
+Added intro image .
+Add help .
+Removed TODO .
+rescaled apple - touch - icon
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Updated changelog
+add STORM - 1007 to CHANGELOG . md
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove unused constant from TWLayoutManager
+Updated changelog
+fix prop type warning
+Added intro image .
+ignore Update ' modules / apps / sync / .
+updated AUTHORS . md to include Vingles
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Add image for screen density chart
+ignore Update ' modules / apps / foundation / expando / .
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Remove unused constant from TWLayoutManager
+Updated changelog
+ignore Update ' modules / apps / marketplace / .
+Add flags needed to switch Jack to 1 . 8 for CTS targets
+set back release properties
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / frontend - theme / .
+Added intro image .
+ignore Update ' modules / apps / foundation / frontend - editor / .
+Fix WTF when creating a lazily initialized connection
+renamed test .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+renamed test .
+ignore Update ' modules / apps / collaboration / wiki / .
+Added intro image .
+ignore filtered scripts created by build
+Consolidate javax . servlet jars
+moved to version 1 . 4 of buildnumber maven plugin
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / portal - cache / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+Added translation using Weblate ( Uzbek )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Disallow usage of maven 3 . 1 . x ( and higher ) because of non compability with plugins
+use empty array instance rather than brand new array
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add TypeCheck . DETERMINISTIC_TEST check to " suspiciousCode " group .
+ignore Update ' modules / apps / foundation / expando / .
+ignore Update ' modules / apps / collaboration / comment / .
+update readme
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / sync / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+see 08 / 22 log
+Consolidate javax . servlet jars
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+adding mkmf . log to gitignore
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Rename method
+tolerate symlink - caused intersections in subtrees )
+Added intro image .
+LEP - 6067 - Consolidating the Sharing links ( forgot the actual sharing image . . . )
+update Readme
+Added intro image .
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+Added intro image .
+revert change to test / cassandra .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / site / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+deleted android_bluetooth_ScoSocket . cpp from makefile
+add STORM - 1499 to CHANGELOG . md
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / web - experience / journal / .
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+bumping up version
+Added intro image .
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+fixed bugs in not - null instrumentation
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+remove test files after completion
+remove sumatra pdf executable
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / comment / .
+Add cdma_rmnet4 to list of monitored interfaces
+deleted android_bluetooth_ScoSocket . cpp from makefile
+set correct version
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update Readme
+Don ' t require old maven
+Remove unused constant from TWLayoutManager
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Remove unused constant from TWLayoutManager
+renamed test .
+don ' t use atexit , causes problems .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix apicheck break .
+ignore filtered scripts created by build
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+set back release properties
+Fix WTF when creating a lazily initialized connection
+Started a Q and A section .
+Added intro image .
+Added intro image .
+don ' t use atexit , causes problems .
+Add cdma_rmnet4 to list of monitored interfaces
+ignore Update ' modules / apps / foundation / users - admin / .
+Started a Q and A section .
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Rename R vignette R demo script .
+Fix WTF when creating a lazily initialized connection
+Added translation using Weblate ( Uzbek )
+ignore Update ' modules / apps / foundation / expando / .
+Add help .
+Fixed a bug where the notification scroller could crash .
+IDEA - 82242 Scroll the tabs with mouse wheel
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / portal - cache / .
+Added intro image .
+Added intro image .
+Started a Q and A section .
+fix prop type warning
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+see 08 / 22 log
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Consolidate javax . servlet jars
+ignore Update ' modules / apps / collaboration / comment / .
+add README
+LPS - 41509 Don ' t delete the deploy dir
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Properly stop server .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Added intro image .
+renamed test .
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+ignore Update ' modules / apps / foundation / portal - instances / .
+Fixed unit test after rebase
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added a screenshot of the app in action ( without images )
+updated version
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Add image for screen density chart
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Consolidate javax . servlet jars
+Updated changelog
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+add STORM - 1499 to CHANGELOG . md
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / foundation / users - admin / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+renamed test .
+Removed the background attribute completly .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - template / .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / web - experience / site / .
+updated version
+don ' t use atexit , causes problems .
+Added intro image .
+Added intro image .
+add README
+Fixed a bug where the notification scroller could crash .
+updated version
+Add cdma_rmnet4 to list of monitored interfaces
+KT - 1036 JetFile - > PsiJavaFile cast problem - one more test for changed diagnostic behaviour
+remove unused import
+add STORM - 1499 to CHANGELOG . md
+Fix WTF when creating a lazily initialized connection
+Add help .
+Added intro image .
+Add help .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore filtered scripts created by build
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / web - experience / journal / .
+Raise visibility of Netty Channel Builder Ctor
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Add help .
+Added a screenshot of the app in action ( without images )
+Added intro image .
+set back release properties
+ignore Update ' modules / apps / foundation / map / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fixed a bug where the notification scroller could crash .
+Add cdma_rmnet4 to list of monitored interfaces
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Don ' t require old maven
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Updated changelog
+ignore Update ' modules / apps / collaboration / document - library / .
+Remove version . properties from ' sources ' JAR
+updated version
+Fix DeletionRetentionStrategy # configurationClass ( )
+Stop any playing media when closing InAppBrowser
+ignore Update ' modules / apps / foundation / expando / .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Updated changelog
+Bump version to 0 . 0 . 13 .
+Add keys . add ( key )
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+ignore Update ' modules / apps / collaboration / wiki / .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / sync / .
+add STORM - 1499 to CHANGELOG . md
+Fix WTF when creating a lazily initialized connection
+added google group
+Added intro image .
+ignore Update ' modules / apps / foundation / frontend - editor / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+update multipleEntity
+Added private constructor to ThreadSafeLazyLoadedIvoryTower .
+ignore Update ' modules / apps / foundation / portal - instances / .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+ignore Update ' modules / apps / foundation / portal - search / .
+ignore Update ' modules / apps / collaboration / comment / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add cdma_rmnet4 to list of monitored interfaces
+Rename method
+add STORM - 1499 to CHANGELOG . md
+Add image for screen density chart
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+fixed css for remember me button checkbox under login form for webkit browsers
+Fix WTF when creating a lazily initialized connection
+Added a screenshot of the app in action ( without images )
+don ' t use atexit , causes problems .
+Removed an unnecessary line introduced into CHANGES . txt by change r1087844
+ignore Update ' modules / apps / collaboration / wiki / .
+Started a Q and A section .
+Remove unused constant from TWLayoutManager
+Fixed a bug where the notification scroller could crash .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+make shared variable volatile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+use empty array instance rather than brand new array
+don ' t use atexit , causes problems .
+added HttpClient 3 . x to supported modules in README
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Upgraded the version in the parent pom references in our example components to 3 .
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / expando / .
+Added intro image .
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Publish 0 . 4 . 0 .
+ignore Update ' modules / apps / collaboration / wiki / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+IDEA - 82242 Scroll the tabs with mouse wheel
+Fix stupid copy / paste typo .
+ignore Update ' modules / apps / foundation / map / .
+ignore Update ' modules / apps / foundation / map / .
+Don ' t upload anything if - PnoUpload ( helpful for testing promotion build ) .
+Fix WTF when creating a lazily initialized connection
+updated version
+ignore Update ' modules / apps / foundation / users - admin / .
+Added intro image .
+Added intro image .
+Updated changelog
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+Added a screenshot of the app in action ( without images )
+ignore Update ' modules / apps / foundation / users - admin / .
+Added a screenshot of the app in action ( without images )
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Add deskshare object to meetings
+Remove unused constant from TWLayoutManager
+use the passed param for ' rand_shuffle ' when writing flatfile ( I had left it harwired to True .
+Add cdma_rmnet4 to list of monitored interfaces
+deleted android_bluetooth_ScoSocket . cpp from makefile
+don ' t use atexit , causes problems .
+Fix WTF when creating a lazily initialized connection
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added translation using Weblate ( Uzbek )
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore filtered scripts created by build
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+Updated reference to library to fix problems in login view when fixing typos in URL path
+Made validation util also have private constructor to prevent initialization
+Added intro image .
+renamed test .
+Added intro image .
+ignore Update ' modules / apps / collaboration / wiki / .
+ignore Update ' modules / apps / collaboration / document - library / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Started a Q and A section .
+Added intro image .
+Add cdma_rmnet4 to list of monitored interfaces
+updated version
+LPS - 52032 released 1 . 0 . 2 , so prep for 1 . 0 . 3 snapshot
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Added security dependency on webapp . mod
+Added intro image .
+Added intro image .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Fix path to jar in windows script for the case it is run not from jsonschema2pojo home
+Add help .
+Fix WTF when creating a lazily initialized connection
+Fix WTF when creating a lazily initialized connection
+Added intro image .
+Added intro image .
+ignore Update ' modules / apps / web - experience / site / .
+ignore Update ' modules / apps / foundation / users - admin / .
+deleted android_bluetooth_ScoSocket . cpp from makefile
+deleted android_bluetooth_ScoSocket . cpp from makefile
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to
+Changed CommandLineRunner to public , as I believe that was the intention according to

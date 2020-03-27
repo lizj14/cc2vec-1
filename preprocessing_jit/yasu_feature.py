@@ -56,12 +56,12 @@ def load_yasu_data(project):
 
 
 if __name__ == '__main__':
-    # project = 'openstack'
-    project = 'qt'
+    project = 'openstack'
+    # project = 'qt'
     rf = load_yasu_data(project=project)
 
-    # path_data = '../data/jit_openstack.pkl'
-    path_data = '../data/jit_qt.pkl'
+    path_data = '../data/jit_openstack.pkl'
+    # path_data = '../data/jit_qt.pkl'
     with open(path_data, 'rb') as input:
         data = pickle.load(input)
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code, ids = data

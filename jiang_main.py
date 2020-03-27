@@ -15,6 +15,7 @@ if __name__ == '__main__':
     path_test_diff = './data/jiang_ase_2017/test.3000.diff'
     data_test_diff = load_Jiang_code_data(pfile=path_test_diff)
     data_diff = data_train_diff + data_test_diff
+    # data_diff = data_test_diff
     padding_code_info = (15, 40)  # max_line = 15; max_length = 40
     ##################################################################################
     ##################################################################################
@@ -27,6 +28,9 @@ if __name__ == '__main__':
     path_test_msg = './data/jiang_ase_2017/test.3000.msg'
     data_test_msg = load_file(path_file=path_test_msg)
     data_msg = data_train_msg + data_test_msg
+    # data_msg = data_test_msg
+
+    input_option.num_epochs = 30
     ##################################################################################
     ##################################################################################
     train_model(commit_diff=data_diff, commit_msg=data_msg, params=input_option,

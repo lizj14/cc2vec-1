@@ -125,6 +125,9 @@ class HierachicalRNN(nn.Module):
     def forward_code(self, x, hid_state):
         hid_state_hunk, hid_state_sent, hid_state_word = hid_state
         n_batch, n_hunk, n_line = x.shape[0], x.shape[1], x.shape[2]
+        #fix batch size
+        # self.batch_size = n_batch
+
         # i: hunk; j: line; k: batch
         hunks = None
         for i in range(n_hunk):
@@ -134,7 +137,11 @@ class HierachicalRNN(nn.Module):
                 for k in range(n_batch):
                     words.append(x[k][i][j])
                 words = np.array(words)
-                sent, state_word = self.wordRNN(torch.cuda.LongTensor(words).view(-1, self.batch_size), hid_state_word)
+                if torch.cuda.is_available():
+                    sent, state_word = self.wordRNN(torch.cuda.LongTensor(words).view(-1, self.batch_size), hid_state_word)
+                else:
+                    sent, state_word = self.wordRNN(torch.LongTensor(words).view(-1, self.batch_size),
+                                                    hid_state_word)
                 if sents is None:
                     sents = sent
                 else:
@@ -238,10 +245,19 @@ class HierachicalRNN(nn.Module):
         return F.relu(W_output + V_output)
 
     def init_hidden_hunk(self):
-        return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        if torch.cuda.is_available():
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        else:
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size))
 
     def init_hidden_sent(self):
-        return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        if torch.cuda.is_available():
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        else:
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size))
 
     def init_hidden_word(self):
-        return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        if torch.cuda.is_available():
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size)).cuda()
+        else:
+            return Variable(torch.zeros(2, self.batch_size, self.hidden_size))

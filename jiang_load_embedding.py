@@ -38,7 +38,7 @@ def commit_embedding(path, batches, model, params, nepoch):
             embedding_vectors = np.concatenate((embedding_vectors, commits_vector), axis=0)
         print('Batch numbers:', cnt)
         cnt += 1
-    path_save = './embedding/' + params.datetime + '/'
+    path_save = './embedding_train/' + params.datetime + '/'
     save_folder = os.path.dirname(path_save)
     if not os.path.exists(save_folder):
         os.makedirs(save_folder)
@@ -89,6 +89,7 @@ if __name__ == '__main__':
     path_test_diff = './data/jiang_ase_2017/test.3000.diff'
     data_test_diff = load_Jiang_code_data(pfile=path_test_diff)
     data_diff = data_train_diff + data_test_diff
+    data_diff = data_test_diff
     padding_code_info = (15, 40)  # max_line = 15; max_length = 40
     ##################################################################################
     ##################################################################################
@@ -101,14 +102,15 @@ if __name__ == '__main__':
     path_test_msg = './data/jiang_ase_2017/test.3000.msg'
     data_test_msg = load_file(path_file=path_test_msg)
     data_msg = data_train_msg + data_test_msg
+    data_msg = data_test_msg
 
     input_option.filter_sizes = [int(k) for k in input_option.filter_sizes.split(',')]
     # batches, model = collect_batches(commit_diff=data_diff[:500], commit_msg=data_msg[:500], params=input_option,
     #                                  padding_code_info=padding_code_info)
     batches, model = collect_batches(commit_diff=data_diff, commit_msg=data_msg, params=input_option,
                                      padding_code_info=padding_code_info)
-    input_option.datetime = '2019-08-11_20-12-03'
-    input_option.start_epoch = 1
+    input_option.datetime = 'only_test'
+    input_option.start_epoch = 50
     input_option.end_epoch = 50
     for epoch in range(input_option.start_epoch, input_option.end_epoch + 1):
         path_model = './snapshot/' + input_option.datetime + '/epoch_' + str(epoch) + '.pt'

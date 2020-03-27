@@ -198,7 +198,7 @@ def mini_batches(X_msg, X_added_code, X_removed_code, Y, mini_batch_size=64, see
     return mini_batches
 
 
-def mini_batches_topwords(X_added_code, X_removed_code, Y, mini_batch_size=64, seed=0):
+def mini_batches_topwords(X_added_code, X_removed_code, Y, msg ,mini_batch_size=64, seed=0):
     m = Y.shape[0]  # number of training examples
     mini_batches = []
     np.random.seed(seed)
@@ -217,9 +217,11 @@ def mini_batches_topwords(X_added_code, X_removed_code, Y, mini_batch_size=64, s
         mini_batch_X_removed = shuffled_X_removed[k * mini_batch_size: k * mini_batch_size + mini_batch_size, :, :, :]
         if len(Y.shape) == 1:
             mini_batch_Y = shuffled_Y[k * mini_batch_size: k * mini_batch_size + mini_batch_size]
+            mini_batch_msg = msg[k * mini_batch_size: k * mini_batch_size + mini_batch_size]
         else:
             mini_batch_Y = shuffled_Y[k * mini_batch_size: k * mini_batch_size + mini_batch_size, :]
-        mini_batch = (mini_batch_X_added, mini_batch_X_removed, mini_batch_Y)
+            mini_batch_msg = msg[k * mini_batch_size: k * mini_batch_size + mini_batch_size, :]
+        mini_batch = (mini_batch_X_added, mini_batch_X_removed, mini_batch_Y,mini_batch_msg)
         mini_batches.append(mini_batch)
 
     # Handling the end case (last mini-batch < mini_batch_size)
@@ -228,16 +230,18 @@ def mini_batches_topwords(X_added_code, X_removed_code, Y, mini_batch_size=64, s
         mini_batch_X_removed = shuffled_X_removed[num_complete_minibatches * mini_batch_size: m, :, :, :]
         if len(Y.shape) == 1:
             mini_batch_Y = shuffled_Y[num_complete_minibatches * mini_batch_size: m]
+            mini_batch_msg = msg[num_complete_minibatches * mini_batch_size: m]
         else:
             mini_batch_Y = shuffled_Y[num_complete_minibatches * mini_batch_size: m, :]
-        mini_batch = (mini_batch_X_added, mini_batch_X_removed, mini_batch_Y)
+            mini_batch_msg = msg[num_complete_minibatches * mini_batch_size: m, :]
+        mini_batch = (mini_batch_X_added, mini_batch_X_removed, mini_batch_Y,mini_batch_msg)
         mini_batches.append(mini_batch)
     return mini_batches
 
 
 if __name__ == "__main__":
     # path_data = "./data/linux/newres_funcalls_words_jul28.out"
-    path_data = "./data/linux/newres_funcalls_jul28.out"
+    path_data = "../data/linux/newres_funcalls_jul28_temp.out"
     commits_ = extract_commit(path_file=path_data)
     nfile, nhunk, nloc, nleng = 1, 8, 10, 120
     commits = reformat_commit_code(commits=commits_, num_file=nfile, num_hunk=nhunk, num_loc=nloc, num_leng=nleng)
@@ -251,5 +255,6 @@ if __name__ == "__main__":
     print('Dictionary of commit message has size: %i' % (len(dict_msg)))
     print('Dictionary of commit code has size: %i' % (len(dict_code)))
 
-    with open('./data/linux_bfp.pickle', 'wb') as output:
+    # with open('../data/linux_bfp.pickle', 'wb') as output:
+    with open('../data/linux_bfp_temp.pickle', 'wb') as output:
         pickle.dump(data, output, pickle.HIGHEST_PROTOCOL)
