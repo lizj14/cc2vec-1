@@ -8,7 +8,7 @@ from ultis import load_file
 import os
 import torch
 from jiang_padding import padding_commit_code, commit_msg_label
-from .preprocessing_linux_bfp.ultis import mini_batches_topwords
+from preprocessing_linux_bfp.ultis import mini_batches_topwords
 import numpy as np
 import datetime
 from jiang_patch_embedding import PatchEmbedding
