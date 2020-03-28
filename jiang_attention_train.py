@@ -85,7 +85,7 @@ def running_train(batches, model, params):
             state_hunk = model.init_hidden_hunk()
 
             pad_added_code, pad_removed_code, labels, msg = batch
-            commits_vector = model.forward_commit_embeds_diff(pad_added_code, pad_removed_code, state_hunk, state_sent,
+            commits_vector = model.forward_commit_embeds(pad_added_code, pad_removed_code, state_hunk, state_sent,
                                                          state_word)
 
             if torch.cuda.is_available():
@@ -105,35 +105,37 @@ def running_train(batches, model, params):
     # test
     test_predict_result = []
     output = './data/jiang_ase_2017/test.3000.msg.predict.attention'
-    for batch in test:
-        model.batch_size = batch[0].shape[0]
-        # reset the hidden state of hierarchical attention model
-        state_word = model.init_hidden_word()
-        state_sent = model.init_hidden_sent()
-        state_hunk = model.init_hidden_hunk()
+    with torch.no_grad():
+        model.eval()
+        for batch in test:
+            model.batch_size = batch[0].shape[0]
+            # reset the hidden state of hierarchical attention model
+            state_word = model.init_hidden_word()
+            state_sent = model.init_hidden_sent()
+            state_hunk = model.init_hidden_hunk()
 
-        pad_added_code, pad_removed_code, labels, msg = batch
-        commits_vector = model.forward_commit_embeds_diff(pad_added_code, pad_removed_code, state_hunk, state_sent,
-                                                     state_word)
+            pad_added_code, pad_removed_code, labels, msg = batch
+            commits_vector = model.forward_commit_embeds(pad_added_code, pad_removed_code, state_hunk, state_sent,
+                                                         state_word)
 
-        if torch.cuda.is_available():
-            commits_vector = commits_vector.cpu().detach().numpy()
-        else:
-            commits_vector = commits_vector.detach().numpy()
+            if torch.cuda.is_available():
+                commits_vector = commits_vector.cpu().detach().numpy()
+            else:
+                commits_vector = commits_vector.detach().numpy()
 
-        for vec in commits_vector:
-            best_sim = -1
-            best_index = 0
-            for index in range(len(train_vectors)):
-                a, b = vec, train_vectors[index]
-                # np.cosine_similarity()
-                cos_sim = dot(a, b) / (norm(a) * norm(b))
-                # cos_sim = pairwise.cosine_similarity(a.reshape((1,-1)),b.reshape((1,-1)))
-                if cos_sim > best_sim:
-                    best_sim = cos_sim
-                    best_index = index
+            for vec in commits_vector:
+                best_sim = -1
+                best_index = 0
+                for index in range(len(train_vectors)):
+                    a, b = vec, train_vectors[index]
+                    # np.cosine_similarity()
+                    cos_sim = dot(a, b) / (norm(a) * norm(b))
+                    # cos_sim = pairwise.cosine_similarity(a.reshape((1,-1)),b.reshape((1,-1)))
+                    if cos_sim > best_sim:
+                        best_sim = cos_sim
+                        best_index = index
 
-            test_predict_result.append(msg_list[best_index][0])
+                test_predict_result.append(msg_list[best_index][0])
 
     test_predict_result = test_predict_result[-3000:]
     with open(output, 'w+') as file:
@@ -234,6 +236,6 @@ if __name__ == '__main__':
 
     data = (data_diff, data_msg)
 
-    input_option.num_epochs = 30
+    input_option.num_epochs = 5
 
     train_model(data=data, params=input_option)
