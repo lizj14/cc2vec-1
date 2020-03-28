@@ -18,7 +18,7 @@ BLEUOUT='./data/jiang_ase_2017/test.3000.predict.BLEU'
 ## get BLEU
 # path to moses decoder: https://github.com/moses-smt/mosesdecoder
 
-mosesdecoder=/Users/haoye.tian/Documents/University/project/mosesdecoder
+mosesdecoder=../mosesdecoder
 ref=$TESTREF
 
 #./postprocess-dev.sh < $OUT > $OUT.postprocessed

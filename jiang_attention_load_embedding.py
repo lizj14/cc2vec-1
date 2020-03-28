@@ -41,7 +41,7 @@ def load_embedding(path, batches, model, params, nepoch):
             state_hunk = model.init_hidden_hunk()
 
             pad_added_code, pad_removed_code, labels = batch
-            commits_vector = model.forward_commit_embeds(pad_added_code, pad_removed_code, state_hunk, state_sent,
+            commits_vector = model.forward_commit_embeds_diff(pad_added_code, pad_removed_code, state_hunk, state_sent,
                                                          state_word)
 
             if torch.cuda.is_available():

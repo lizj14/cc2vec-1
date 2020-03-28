@@ -53,6 +53,10 @@ def running_train(batches, model, params):
         save(model, params.save_dir, 'epoch', num_epoch)
         num_epoch += 1
 
+
+
+
+
     train_vectors, cnt = list(), 0
     msg_list = list()
     for batch in train:
@@ -64,6 +68,7 @@ def running_train(batches, model, params):
             pad_added_code, pad_removed_code, labels = torch.tensor(pad_added_code).long(), torch.tensor(
                 pad_removed_code).long(), torch.tensor(labels).float()
 
+        optimizer.zero_grad()
         commits_vector = model.forward_commit_embeds(pad_added_code, pad_removed_code)
 
         if torch.cuda.is_available():
