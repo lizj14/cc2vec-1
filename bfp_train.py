@@ -93,7 +93,7 @@ if __name__ == '__main__':
     # labels: label of our data, stable or non-stable patches
     # dict_msg: dictionary of commit message
     # dict_code: dictionary of commit code
-    with open('./data/linux_bfp_temp.pickle', 'rb') as input:
+    with open('./data/linux_bfp.pickle', 'rb') as input:
         data = pickle.load(input)
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
     ##########################################################################################################
@@ -112,6 +112,6 @@ if __name__ == '__main__':
     input_option.embed_size = 64
     input_option.hidden_size = 32
 
-    # input_option.num_epochs = 2
+    input_option.num_epochs = 10
     data = (pad_added_code, pad_removed_code, pad_msg_labels, dict_msg, dict_code)
     train_model(data=data, params=input_option)

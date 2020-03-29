@@ -46,7 +46,7 @@ def running_train(batches, model, params):
     train = batches[:409]
     test = batches[409:]
     for epoch in range(1, params.num_epochs + 1):
-        for batch in batches:
+        for batch in batches[-5:]:
             model.batch_size = batch[0].shape[0]
             # reset the hidden state of hierarchical attention model
             state_word = model.init_hidden_word()
@@ -85,9 +85,13 @@ def running_train(batches, model, params):
             state_word = model.init_hidden_word()
             state_sent = model.init_hidden_sent()
             state_hunk = model.init_hidden_hunk()
+            # state_sent = model.init_hidden_sent()
+            # state_hunk = model.init_hidden_hunk()
+            # model.wordRNN.batch_size = model.batch_size
 
             pad_added_code, pad_removed_code, labels, msg = batch
-            commits_vector = model.forward_commit_embeds_diff(pad_added_code, pad_removed_code, state_hunk, state_sent,
+            # optimizer.zero_grad()
+            commits_vector = model.forward_commit_embeds(pad_added_code, pad_removed_code, state_hunk, state_sent,
                                                          state_word)
             if torch.cuda.is_available():
                 commits_vector = commits_vector.cpu().detach().numpy()
@@ -275,8 +279,8 @@ if __name__ == '__main__':
     input_option = read_args().parse_args()
     input_help = read_args().print_help()
 
-    # input_option.embed_size = 64
-    # input_option.hidden_size = 32
+    input_option.embed_size = 64
+    input_option.hidden_size = 32
 
     data = (data_diff, data_msg)
 

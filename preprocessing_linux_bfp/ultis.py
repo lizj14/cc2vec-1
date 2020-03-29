@@ -8,10 +8,19 @@ from preprocessing_linux_bfp.reformating import reformat_file, reformat_hunk
 import numpy as np
 import math
 import os
-from .arguments import read_args
-from .padding import padding_commit
+from preprocessing_linux_bfp.arguments import read_args
+from preprocessing_linux_bfp.padding import padding_commit
 import pickle
+from sklearn.model_selection import StratifiedShuffleSplit, KFold
+import pickle
+def info_label(data):
+    pos = [d for d in data if d == 1]
+    neg = [d for d in data if d == 0]
+    print('Positive: %i -- Negative: %i' % (len(pos), len(neg)))
 
+
+def get_index(data, index):
+    return [data[i] for i in index]
 
 def load_file(path_file):
     lines = list(open(path_file, "r").readlines())
@@ -238,10 +247,30 @@ def mini_batches_topwords(X_added_code, X_removed_code, Y, msg ,mini_batch_size=
         mini_batches.append(mini_batch)
     return mini_batches
 
+def folding_data_authordate(pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code,ids, n_folds):
+    kf = KFold(n_splits=n_folds, random_state=0)
+    indexes = list(kf.split(pad_msg))
+    train_index, test_index = indexes[len(indexes) - 1]
+
+    pad_msg_train, pad_msg_test = get_index(data=pad_msg, index=train_index), get_index(data=pad_msg,
+                                                                                        index=test_index)
+    pad_added_code_train, pad_added_code_test = get_index(data=pad_added_code, index=train_index), get_index(data=pad_added_code,
+                                                                                           index=test_index)
+    pad_removed_code_train, pad_removed_code_test = get_index(data=pad_removed_code, index=train_index), get_index(data=pad_removed_code,
+                                                                                           index=test_index)
+
+    labels_train, labels_test = labels[train_index], labels[test_index]
+    info_label(data=labels_train)
+    info_label(data=labels_test)
+    # ids_train, ids_test = get_index(data=ids, index=train_index), get_index(data=ids, index=test_index)
+
+    train = (pad_msg_train, pad_added_code_train, pad_removed_code_train, labels_train, dict_msg, dict_code )
+    test = (pad_msg_test, pad_added_code_test, pad_removed_code_test, labels_test, dict_msg, dict_code )
+    return train, test
 
 if __name__ == "__main__":
     # path_data = "./data/linux/newres_funcalls_words_jul28.out"
-    path_data = "../data/linux/newres_funcalls_jul28_temp.out"
+    path_data = "../data/linux/newres_funcalls_jul28.out"
     commits_ = extract_commit(path_file=path_data)
     nfile, nhunk, nloc, nleng = 1, 8, 10, 120
     commits = reformat_commit_code(commits=commits_, num_file=nfile, num_hunk=nhunk, num_loc=nloc, num_leng=nleng)
@@ -250,11 +279,15 @@ if __name__ == "__main__":
     input_help = read_args().print_help()
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = padding_commit(commits=commits,
                                                                                             params=input_option)
-    data = (pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
+    # data = (pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
+
+    train, test = folding_data_authordate(pad_msg,pad_added_code, pad_removed_code, labels, dict_msg, dict_code, None,5)
     print('Number of commits:', len(commits))
     print('Dictionary of commit message has size: %i' % (len(dict_msg)))
     print('Dictionary of commit code has size: %i' % (len(dict_code)))
 
     # with open('../data/linux_bfp.pickle', 'wb') as output:
-    with open('../data/linux_bfp_temp.pickle', 'wb') as output:
-        pickle.dump(data, output, pickle.HIGHEST_PROTOCOL)
+    with open('../data/linux_bfp_train.pickle', 'wb') as output:
+        pickle.dump(train, output, pickle.HIGHEST_PROTOCOL)
+    with open('../data/linux_bfp_test.pickle', 'wb') as output:
+        pickle.dump(test, output, pickle.HIGHEST_PROTOCOL)

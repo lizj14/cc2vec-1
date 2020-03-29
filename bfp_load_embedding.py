@@ -106,7 +106,7 @@ if __name__ == '__main__':
     input_option.embed_size = 64
     input_option.hidden_size = 32
     input_option.start_epoch = 1
-    input_option.end_epoch = 20
+    input_option.end_epoch = 10
 
     data = (pad_added_code, pad_removed_code, pad_msg_labels, dict_msg, dict_code)
     batches, model = load_model(data=data, params=input_option)
