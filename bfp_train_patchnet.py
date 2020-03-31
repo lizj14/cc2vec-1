@@ -5,7 +5,7 @@ from ultis import mini_batches_extended,mini_batches_noftr
 import torch
 import os
 import datetime
-from hierarchical_cnn_classification import PatchNetExtented
+from hierarchical_patchnet_noftr_classification import PatchNetExtented
 import torch.nn as nn
 
 
