@@ -42,11 +42,11 @@ def run_results(path, batches, model, params, nepoch):
     with torch.no_grad():
         model.eval()
         for batch in batches:
-            pad_ftr, pad_msg, pad_added_code, pad_removed_code, labels = batch
-            pad_ftr, pad_msg, pad_added_code, pad_removed_code, labels = torch.cuda.DoubleTensor(pad_ftr), torch.tensor(
+            pad_msg, pad_added_code, pad_removed_code, labels = batch
+            pad_msg, pad_added_code, pad_removed_code, labels = torch.tensor(
                 pad_msg).cuda(), torch.tensor(pad_added_code).cuda(), torch.tensor(
                 pad_removed_code).cuda(), torch.cuda.FloatTensor(labels)
-            pred = model.forward(pad_ftr, pad_msg, pad_added_code, pad_removed_code)
+            pred = model.forward_noftr(pad_msg, pad_added_code, pad_removed_code)
             pred, labels = pred.cpu().detach().numpy(), labels.cpu().detach().numpy()
             if cnt == 0:
                 pred_labels, true_labels = pred, labels
