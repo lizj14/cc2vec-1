@@ -2,15 +2,15 @@ import pickle
 from parameters import read_args_cnn
 import numpy as np
 import torch
-from ultis import mini_batches_extended
+from ultis import mini_batches_noftr
 import os
-from hierarchical_cnn_classification import PatchNetExtented
+from hierarchical_patchnet_noftr_classification import PatchNetExtented
 from sklearn.metrics import precision_score
 
 
 def load_model(data, params):
-    pad_extended_ftr, pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
-    batches = mini_batches_extended(X_ftr=pad_extended_ftr, X_msg=pad_msg, X_added_code=pad_added_code,
+    pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
+    batches = mini_batches_noftr(X_msg=pad_msg, X_added_code=pad_added_code,
                                     X_removed_code=pad_removed_code, Y=labels, mini_batch_size=input_option.batch_size)
     params.cuda = (not params.no_cuda) and torch.cuda.is_available()
     del params.no_cuda
