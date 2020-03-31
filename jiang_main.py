@@ -30,7 +30,7 @@ if __name__ == '__main__':
     data_msg = data_train_msg + data_test_msg
     # data_msg = data_test_msg
 
-    input_option.num_epochs = 30
+    input_option.num_epochs = 40
     ##################################################################################
     ##################################################################################
     train_model(commit_diff=data_diff, commit_msg=data_msg, params=input_option,

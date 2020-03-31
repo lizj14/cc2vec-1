@@ -90,20 +90,17 @@ if __name__ == '__main__':
     input_option = read_args_cnn().parse_args()
     input_help = read_args_cnn().print_help()
 
-    input_option.datetime = '2019-07-08_23-13-28'
+    input_option.datetime = 'patchnet'
 
-    path_embedding = './embedding/' + input_option.datetime + '/epoch_10.txt'
-    embedding_ftr = np.loadtxt(path_embedding)  # be careful with the shape since we don't include the last batch
 
-    data = (embedding_ftr, pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
-    input_option.extended_ftr = embedding_ftr.shape[1]
+    data = (pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
 
     # input_option.path_model = '2019-07-22_16-57-31'
     # input_option.start_model = 1
     # input_option.end_model = 100
 
-    input_option.path_model = '2019-07-23_21-26-23'
-    input_option.start_model = 1
+    input_option.path_model = 'patchnet'
+    input_option.start_model = 30
     input_option.end_model = 50
 
     batches, model = load_model(data=data, params=input_option)

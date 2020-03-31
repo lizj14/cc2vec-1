@@ -99,3 +99,22 @@ class PatchNetExtented(nn.Module):
         out = self.fc2(out)
         out = self.sigmoid(out).squeeze(1)
         return out
+
+    def forward_noftr(self, msg, added_code, removed_code):
+        x_msg = self.embed_msg(msg)
+        x_msg = self.forward_msg(x_msg, self.convs_msg)
+
+        x_added_code = self.embed_code(added_code)
+        x_added_code = self.forward_code_fast(x=x_added_code)
+        # x_added_code = self.forward_code_fast_ver1(x=x_added_code)
+
+        x_removed_code = self.embed_code(removed_code)
+        x_removed_code = self.forward_code_fast(x=x_removed_code)
+        # x_removed_code = self.forward_code_fast_ver1(x=x_removed_code)
+
+        x_commit = torch.cat(( x_msg, x_added_code, x_removed_code), 1)
+        out = self.fc1(x_commit)
+        out = F.relu(out)
+        out = self.fc2(out)
+        out = self.sigmoid(out).squeeze(1)
+        return out

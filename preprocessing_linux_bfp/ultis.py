@@ -270,7 +270,7 @@ def folding_data_authordate(pad_msg, pad_added_code, pad_removed_code, labels, d
 
 if __name__ == "__main__":
     # path_data = "./data/linux/newres_funcalls_words_jul28.out"
-    path_data = "../data/linux/newres_funcalls_jul28.out"
+    path_data = "../data/linux/newres_funcalls_jul28_temp.out"
     commits_ = extract_commit(path_file=path_data)
     nfile, nhunk, nloc, nleng = 1, 8, 10, 120
     commits = reformat_commit_code(commits=commits_, num_file=nfile, num_hunk=nhunk, num_loc=nloc, num_leng=nleng)
@@ -287,7 +287,7 @@ if __name__ == "__main__":
     print('Dictionary of commit code has size: %i' % (len(dict_code)))
 
     # with open('../data/linux_bfp.pickle', 'wb') as output:
-    with open('../data/linux_bfp_train.pickle', 'wb') as output:
+    with open('../data/linux_bfp_train_temp.pickle', 'wb') as output:
         pickle.dump(train, output, pickle.HIGHEST_PROTOCOL)
-    with open('../data/linux_bfp_test.pickle', 'wb') as output:
+    with open('../data/linux_bfp_test_temp.pickle', 'wb') as output:
         pickle.dump(test, output, pickle.HIGHEST_PROTOCOL)

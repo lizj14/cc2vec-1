@@ -74,9 +74,10 @@ if __name__ == '__main__':
     # dict_msg: dictionary of commit message
     # dict_code: dictionary of commit code
 
-    with open('./data/linux_bfp.pickle', 'rb') as input:
+    with open('./data/linux_bfp_train.pickle', 'rb') as input:
         data = pickle.load(input)
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
+    pad_msg, pad_added_code, pad_removed_code = np.array(pad_msg),np.array(pad_added_code),np.array(pad_removed_code)
     ##########################################################################################################
     print(pad_msg.shape, pad_added_code.shape, pad_removed_code.shape, labels.shape)
     print('Shape of the commit message:', pad_msg.shape)

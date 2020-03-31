@@ -7,7 +7,7 @@
 #    exit 1
 #fi
 
-TEST='./data/jiang_ase_2017/test.3000.msg.predict.attention'
+TEST='./data/jiang_ase_2017/test.3000.msg.predict'
 #TEST='./data/jiang_ase_2017/test.3000.diff.nmt'
 TESTREF='./data/jiang_ase_2017/test.3000.msg'
 BLEUOUT='./data/jiang_ase_2017/test.3000.predict.BLEU'

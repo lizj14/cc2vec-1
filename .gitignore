@@ -130,3 +130,5 @@ dmypy.json
 
 linux_bfp.pickle
 linux_bfp*
+
+.idea

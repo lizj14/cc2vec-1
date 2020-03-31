@@ -1,7 +1,7 @@
 import pickle
 from parameters import read_args_cnn
 import numpy as np
-from ultis import mini_batches_extended
+from ultis import mini_batches_extended,mini_batches_noftr
 import torch
 import os
 import datetime
@@ -22,13 +22,13 @@ def running_train(batches, model, params):
     steps, num_epoch = 0, 1
     for epoch in range(1, params.num_epochs + 1):
         for batch in batches:
-            pad_ftr, pad_msg, pad_added_code, pad_removed_code, labels = batch
-            pad_ftr, pad_msg, pad_added_code, pad_removed_code, labels = torch.cuda.DoubleTensor(pad_ftr), torch.tensor(
+            pad_msg, pad_added_code, pad_removed_code, labels = batch
+            pad_msg, pad_added_code, pad_removed_code, labels =  torch.tensor(
                 pad_msg).cuda(), torch.tensor(pad_added_code).cuda(), torch.tensor(
                 pad_removed_code).cuda(), torch.cuda.FloatTensor(labels)
 
             optimizer.zero_grad()
-            predict = model.forward(pad_ftr, pad_msg, pad_added_code, pad_removed_code)
+            predict = model.forward_noftr(pad_msg, pad_added_code, pad_removed_code)
             loss = nn.BCELoss()
             loss = loss(predict, labels)
             loss.backward()
@@ -53,14 +53,16 @@ def running_train(batches, model, params):
 
 
 def train_model(data, params):
-    pad_extended_ftr, pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
-    batches = mini_batches_extended(X_ftr=pad_extended_ftr, X_msg=pad_msg, X_added_code=pad_added_code,
+    pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
+    # batches = mini_batches_extended(X_ftr=pad_extended_ftr, X_msg=pad_msg, X_added_code=pad_added_code,
+    #                                 X_removed_code=pad_removed_code, Y=labels, mini_batch_size=input_option.batch_size)
+    batches = mini_batches_noftr( X_msg=pad_msg, X_added_code=pad_added_code,
                                     X_removed_code=pad_removed_code, Y=labels, mini_batch_size=input_option.batch_size)
     params.cuda = (not params.no_cuda) and torch.cuda.is_available()
     del params.no_cuda
 
     params.filter_sizes = [int(k) for k in params.filter_sizes.split(',')]
-    params.save_dir = os.path.join(params.save_dir, datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S'))
+    params.save_dir = os.path.join(params.save_dir, params.datetime)
     params.vocab_msg, params.vocab_code = len(dict_msg), len(dict_code)
     if len(labels.shape) == 1:
         params.class_num = 1
@@ -100,11 +102,7 @@ if __name__ == '__main__':
     input_option = read_args_cnn().parse_args()
     input_help = read_args_cnn().print_help()
 
-    input_option.datetime = '2019-07-08_23-13-28'
+    input_option.datetime = 'patchnet'
 
-    path_embedding = './embedding/' + input_option.datetime + '/epoch_10.txt'
-    embedding_ftr = np.loadtxt(path_embedding)  # be careful with the shape since we don't include the last batch
-
-    data = (embedding_ftr, pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
-    input_option.extended_ftr = embedding_ftr.shape[1]
+    data = (pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code)
     train_model(data=data, params=input_option)

@@ -21,9 +21,10 @@ def evaluation_metrics(path, labels):
 
 
 if __name__ == '__main__':
-    with open('./data/linux_bfp.pickle', 'rb') as input:
+    with open('./data/linux_bfp_test.pickle', 'rb') as input:
         data = pickle.load(input)
     pad_msg, pad_added_code, pad_removed_code, labels, dict_msg, dict_code = data
+    pad_msg, pad_added_code, pad_removed_code = np.array(pad_msg), np.array(pad_added_code), np.array(pad_removed_code)
     ##########################################################################################################
     print(pad_msg.shape, pad_added_code.shape, pad_removed_code.shape, labels.shape)
     print('Shape of the commit message:', pad_msg.shape)
@@ -39,8 +40,8 @@ if __name__ == '__main__':
     # input_option.start_epoch = 1
     # input_option.end_epoch = 100
 
-    input_option.datetime = '2019-07-23_21-26-23'
-    input_option.start_epoch = 1
+    input_option.datetime = 'patchnet'
+    input_option.start_epoch = 30
     input_option.end_epoch = 50
 
     for epoch in range(input_option.start_epoch, input_option.end_epoch + 1):

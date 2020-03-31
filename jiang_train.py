@@ -30,7 +30,7 @@ def running_train(batches, model, params):
     train = batches[:409]
     test = batches[409:]
     for epoch in range(1, params.num_epochs + 1):
-        for batch in train:
+        for batch in batches:
             pad_added_code, pad_removed_code, labels, msg = batch
             if torch.cuda.is_available():
                 pad_added_code, pad_removed_code, labels = torch.tensor(pad_added_code).cuda(), torch.tensor(
@@ -52,9 +52,6 @@ def running_train(batches, model, params):
 
         save(model, params.save_dir, 'epoch', num_epoch)
         num_epoch += 1
-
-
-
 
 
     train_vectors, cnt = list(), 0
@@ -87,7 +84,7 @@ def running_train(batches, model, params):
 
     #test
     test_predict_result = []
-    output = './data/jiang_ase_2017/test.3000.msg.temp.predict_epoch_' + str('50') + '.txt'
+    output = './data/jiang_ase_2017/test.3000.msg.predict'
     for batch in test:
         pad_added_code, pad_removed_code, labels, msg = batch
         if torch.cuda.is_available():
